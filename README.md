@@ -16,7 +16,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:
+   R:No es tan facil, porque se deben seguir unas pautas y reglas en orden especifico, no solo es sentarse y programar
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
