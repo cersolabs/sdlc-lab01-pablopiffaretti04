@@ -20,11 +20,11 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R:Quiere decir que primero se debe suir unas pautas que son revisar las necesidades de el cliente y elaborar un plan para desarrollar el sowtfare
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R:Permite presupuestar costos y estimar tiempos. El desarrollo se vuelve mas predecibl, con etapas secuenciales previamente definidas.
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
