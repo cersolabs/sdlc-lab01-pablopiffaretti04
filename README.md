@@ -20,7 +20,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:Quiere decir que primero se debe suir unas pautas que son revisar las necesidades de el cliente y elaborar un plan para desarrollar el sowtfare
+   R:Quiere decir que primero se debe seguir unas pautas que son revisar las necesidades de el cliente y elaborar un plan para desarrollar el sowtfare
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
